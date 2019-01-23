@@ -5,7 +5,7 @@ board = [
 ]
 
 xIsNext = True
-winner = False
+winner = Falsee
 
 def draw():
   print(board[0], board[1], board[2])
